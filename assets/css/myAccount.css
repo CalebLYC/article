@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif Verdana, Tahoma;
+    outline: none;
+}
+
+body {
+    background-color: #FFF;
+    font-family: sans-serif Verdana, Tahoma;
+}
+
+
+/*********************************************Corps du site: container*************************************/
+
+.container {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
